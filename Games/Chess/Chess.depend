@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1389469499 source:c:\users\pmswga\desktop\#\Новая папка\chess\main.cpp
+	"Lib.h"
+	"Control.h"
+	"Map.h"
+
+1389467236 c:\users\pmswga\desktop\#\Новая папка\chess\lib.h
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<ctime>
+
+1389120840 c:\users\pmswga\desktop\#\Новая папка\chess\control.h
+	"Lib.h"
+	"Map.h"
+
+1389469499 c:\users\pmswga\desktop\#\Новая папка\chess\map.h
+	"Lib.h"
+
+1389469499 source:d:\Все мои проекты\c++\Новая папка\chess\main.cpp
+	"Lib.h"
+	"Control.h"
+	"Map.h"
+
+1389467236 d:\Все мои проекты\c++\Новая папка\chess\lib.h
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<ctime>
+
+1389120840 d:\Все мои проекты\c++\Новая папка\chess\control.h
+	"Lib.h"
+	"Map.h"
+
+1389469499 d:\Все мои проекты\c++\Новая папка\chess\map.h
+	"Lib.h"
+
