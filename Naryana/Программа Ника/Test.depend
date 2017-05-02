@@ -1,0 +1,157 @@
+# depslib dependency file v1.0
+1394215434 source:d:\Все мои проекты\c++\Программа\test\main.cpp
+	<iostream>
+	<cstdio>
+	<fstream>
+	<windows.h>
+
+1394371668 source:c:\users\pmswga\desktop\test\main.cpp
+	<iostream>
+	<cstdio>
+	<fstream>
+	<windows.h>
+	"Class_CFiles.h"
+	"Class_CCreateFile.h"
+
+1394370989 c:\users\pmswga\desktop\test\class_cfiles.h
+	<iostream>
+
+1394366988 c:\users\pmswga\desktop\test\data\class_cfiles.h
+	<iostream>
+
+1394382201 c:\users\pmswga\desktop\test\class_ccreatefile.h
+	<iostream>
+
+1395071215 source:c:\users\fifa\desktop\test\main.cpp
+	<iostream>
+	<cstdio>
+	<fstream>
+	<windows.h>
+	"Sources files\.h files\Class_CFiles.h"
+	"Sources files\.h files\Class_CCreateFile.h"
+	"Sources files\.h files\Function.h"
+
+1394559075 c:\users\fifa\desktop\test\class_cfiles.h
+	<iostream>
+	<windows.h>
+	<fstream>
+
+1394559075 c:\users\fifa\desktop\test\class_ccreatefile.h
+	<iostream>
+	<fstream>
+	<windows.h>
+
+1394559270 source:c:\users\fifa\desktop\test\cfiles.cpp
+	"Class_CFiles.h"
+
+1394559061 source:c:\users\fifa\desktop\test\ccreatefile.cpp
+	"Class_CCreateFile.h"
+
+1394643354 source:c:\users\fifa\desktop\test\cprotection.cpp
+	"CProtection.h"
+
+1394642747 c:\users\fifa\desktop\test\cprotection.h
+	<iostream>
+	<windows.h>
+
+1394810908 source:c:\users\fifa\desktop\test\functions.cpp
+
+1394810908 c:\users\fifa\desktop\test\functions.cpp
+
+1394810903 c:\users\fifa\desktop\test\function.h
+	<iostream>
+	<cstdio>
+	<windows.h>
+
+1394982229 c:\users\fifa\desktop\test\sources files\.h files\class_cfiles.h
+	<iostream>
+	<windows.h>
+	<fstream>
+
+1394559075 c:\users\fifa\desktop\test\sources files\.h files\class_ccreatefile.h
+	<iostream>
+	<fstream>
+	<windows.h>
+
+1395071325 c:\users\fifa\desktop\test\sources files\.h files\function.h
+	<iostream>
+	<cstdio>
+	<windows.h>
+	<string>
+
+1395071347 source:c:\users\fifa\desktop\test\sources files\ccreatefile.cpp
+	".h files\Class_CCreateFile.h"
+
+1394982279 source:c:\users\fifa\desktop\test\sources files\cfiles.cpp
+	".h files\Class_CFiles.h"
+
+1395067503 c:\users\fifa\desktop\test\sources files\.h files\classes.h
+	<iostream>
+	<windows.h>
+
+1394983356 source:c:\users\fifa\desktop\test\sources files\classes.cpp
+	".h files\Classes.h"
+
+1395124650 source:c:\users\pmswga\virtualbox vms\downloads\test\sources files\ccreatefile.cpp
+	".h files\Class_CCreateFile.h"
+
+1395124670 c:\users\pmswga\virtualbox vms\downloads\test\sources files\.h files\class_ccreatefile.h
+	<iostream>
+	<fstream>
+	<windows.h>
+
+1395124648 source:c:\users\pmswga\virtualbox vms\downloads\test\sources files\cfiles.cpp
+	".h files\Class_CFiles.h"
+
+1395124670 c:\users\pmswga\virtualbox vms\downloads\test\sources files\.h files\class_cfiles.h
+	<iostream>
+	<windows.h>
+	<fstream>
+
+1395124650 source:c:\users\pmswga\desktop\test\sources files\ccreatefile.cpp
+	".h files\Class_CCreateFile.h"
+
+1395124670 c:\users\pmswga\desktop\test\sources files\.h files\class_ccreatefile.h
+	<iostream>
+	<fstream>
+	<windows.h>
+
+1395124648 source:c:\users\pmswga\desktop\test\sources files\cfiles.cpp
+	".h files\Class_CFiles.h"
+
+1395124670 c:\users\pmswga\desktop\test\sources files\.h files\class_cfiles.h
+	<iostream>
+	<windows.h>
+	<fstream>
+
+1395565020 source:c:\users\Администратор\dropbox\Проекты\С++\Нарьяна\Программа Ника\main.cpp
+	<iostream>
+	<cstdio>
+	<fstream>
+	<windows.h>
+	"Sources files\.h files\Class_CFiles.h"
+	"Sources files\.h files\Class_CCreateFile.h"
+	"Sources files\.h files\Function.h"
+
+1395565069 c:\users\Администратор\dropbox\Проекты\С++\Нарьяна\Программа Ника\sources files\.h files\class_cfiles.h
+	<iostream>
+	<windows.h>
+	<fstream>
+
+1395565071 c:\users\Администратор\dropbox\Проекты\С++\Нарьяна\Программа Ника\sources files\.h files\class_ccreatefile.h
+	<iostream>
+	<fstream>
+	<windows.h>
+
+1395565067 c:\users\Администратор\dropbox\Проекты\С++\Нарьяна\Программа Ника\sources files\.h files\function.h
+	<iostream>
+	<cstdio>
+	<windows.h>
+	<string>
+
+1395565029 source:c:\users\Администратор\dropbox\Проекты\С++\Нарьяна\Программа Ника\sources files\ccreatefile.cpp
+	".h files\Class_CCreateFile.h"
+
+1395565027 source:c:\users\Администратор\dropbox\Проекты\С++\Нарьяна\Программа Ника\sources files\cfiles.cpp
+	".h files\Class_CFiles.h"
+

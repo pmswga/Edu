@@ -1,0 +1,50 @@
+#include "Crypt.h"
+
+Crypt::Crypt()
+{
+    abc = new char;
+    abcLength = 0;
+}
+
+void Crypt::ReadFileABC(char *fileName)
+{
+    ifstream abcFile(fileName);
+    if(!abcFile.is_open()) cout << "Не удалось загрузить алфавит!\n";
+    else
+    {
+        abcFile >> abc;
+        abcLength = strlen(abc);
+        abcFile.close();
+    }
+}
+
+void Crypt::OutData()
+{
+    cout << abc;
+}
+
+void Crypt::Encryption(char *stringData, int stringDataLength)
+{
+    system("cls");
+    for(int i = 0; i < stringDataLength; i++)
+    {
+        for(int i2 = 0; i2 < abcLength; i2++)
+        {
+            if(stringData[i] == abc[i2])
+            {
+                cout << stringData[i] << " => ";
+                stringData[i] = abc[i2 += 2];
+                cout << abc[i2] << '\n';
+                Sleep(1000);
+            }
+        }
+    }
+
+    ofstream file;
+    file.open("result.txt");
+    file << "Результат шифрования: " << stringData;
+    file.close();
+
+    cout << '\n' << "Результат записан в файл result.txt" << '\n';
+    Sleep(5000);
+}

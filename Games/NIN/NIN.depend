@@ -1,0 +1,100 @@
+# depslib dependency file v1.0
+1388227218 source:d:\c++\Проекты\nin\main.cpp
+	"Lib.h"
+
+1388227168 d:\c++\Проекты\nin\lib.h
+	<iostream>
+	<windows.h>
+	<ctime>
+	<cstdlib>
+	<string>
+
+1388226469 d:\c++\Проекты\nin\gui.h
+	"Lib.h"
+
+1388257324 source:c:\users\pmswga\desktop\Проекты\nin\main.cpp
+	"Lib.h"
+
+1388227170 c:\users\pmswga\desktop\Проекты\nin\lib.h
+	<iostream>
+	<windows.h>
+	<ctime>
+	<cstdlib>
+	<string>
+
+1388525789 source:c:\users\pmswga\desktop\#\Проекты\nin\main.cpp
+	"Lib.h"
+	"BAT.h"
+	"Objects.h"
+
+1388227170 c:\users\pmswga\desktop\#\Проекты\nin\lib.h
+	<iostream>
+	<windows.h>
+	<ctime>
+	<cstdlib>
+	<string>
+
+1388526219 c:\users\pmswga\desktop\#\Проекты\nin\bat.h
+	"Lib.h"
+	"Objects.h"
+
+1388525565 c:\users\pmswga\desktop\#\Проекты\nin\objects.h
+	"Lib.h"
+
+1388525790 source:d:\programmin\codeblocks\ИИ\nin\main.cpp
+	"Lib.h"
+	"BAT.h"
+	"Objects.h"
+
+1388227170 d:\programmin\codeblocks\ИИ\nin\lib.h
+	<iostream>
+	<windows.h>
+	<ctime>
+	<cstdlib>
+	<string>
+
+1388526220 d:\programmin\codeblocks\ИИ\nin\bat.h
+	"Lib.h"
+	"Objects.h"
+
+1388525566 d:\programmin\codeblocks\ИИ\nin\objects.h
+	"Lib.h"
+
+1388525790 source:c:\users\Администратор\dropbox\Проекты\С++\Искуственный интелект\nin\main.cpp
+	"Lib.h"
+	"BAT.h"
+	"Objects.h"
+
+1388227170 c:\users\Администратор\dropbox\Проекты\С++\Искуственный интелект\nin\lib.h
+	<iostream>
+	<windows.h>
+	<ctime>
+	<cstdlib>
+	<string>
+
+1388526220 c:\users\Администратор\dropbox\Проекты\С++\Искуственный интелект\nin\bat.h
+	"Lib.h"
+	"Objects.h"
+
+1388525566 c:\users\Администратор\dropbox\Проекты\С++\Искуственный интелект\nin\objects.h
+	"Lib.h"
+
+1388525790 source:c:\users\Сергей\dropbox\Проекты\С++\Искуственный интелект\nin\main.cpp
+	"Lib.h"
+	"BAT.h"
+	"Objects.h"
+
+1388227170 c:\users\Сергей\dropbox\Проекты\С++\Искуственный интелект\nin\lib.h
+	<iostream>
+	<windows.h>
+	<ctime>
+	<cstdlib>
+	<string>
+
+1388526220 c:\users\Сергей\dropbox\Проекты\С++\Искуственный интелект\nin\bat.h
+	"Lib.h"
+	"Objects.h"
+
+1388525566 c:\users\Сергей\dropbox\Проекты\С++\Искуственный интелект\nin\objects.h
+	"Lib.h"
+
