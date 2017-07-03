@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1492285244 source:c:\users\spqr\desktop\calculator\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<cmath>
+
