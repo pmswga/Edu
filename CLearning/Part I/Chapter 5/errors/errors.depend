@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1479058639 source:c:\users\sergey\desktop\c++\part i\chapter 5\errors\main.cpp
+	<iostream>
+	<stdexcept>
+	<vector>
+
