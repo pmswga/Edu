@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1493203234 source:c:\users\spqr\desktop\c++\tasks\t3\main.cpp
-	<iostream>
-	<stdlib.h>
-	<time.h>
-	<vector>
-

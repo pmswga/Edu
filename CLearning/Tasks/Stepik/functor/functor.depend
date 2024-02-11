@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1494266267 source:c:\users\spqr\desktop\c++\tasks\stepik\functor\main.cpp
-	<iostream>
-	<functional>
-	<algorithm>
-
